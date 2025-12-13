@@ -1,4 +1,4 @@
-﻿- type: entity
+﻿a- type: entity
   abstract: true
   id: RMCHiveBoonBase
   name: hive boon
@@ -39,8 +39,7 @@
     cost: 0
     pylons: 2
     cooldown: 15m
-    unlockAt: 90m
-    unlockAtRandomAdd: 25m
+    unlockAt: 105m
     duplicateId: RMCHiveBoonKing
     noLivingKing: true
     requiresCore: true
